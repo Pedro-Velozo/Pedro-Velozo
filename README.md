@@ -6,8 +6,8 @@ Sou apaixonado por unir programação e eficiência administrativa. Atuo desenvo
 
 ### 🛠️ Tecnologias e Ferramentas
 
-*   **Front-end:** HTML, CSS, JavaScript e React.
-*   **Back-end & Dados:** Python, SQL (Postgres).
+*   **Front-end:** HTML, CSS, Typescript e React.
+*   **Back-end & Dados:** Python, Typescript, SQL (Postgres).
 *   **Automação & Analytics:** Power Automate, Power BI e Copilot Studio.
 
 ### 🚀 Experiência e Foco Atual
